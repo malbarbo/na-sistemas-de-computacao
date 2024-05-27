@@ -74,22 +74,16 @@ Como expressar um algoritmo? \pause
 
 - Etc
 
-\pause
 
-Vamos fazer uma dinâmica!
+# Instruções
 
+Para cada algoritmo a seguir, vamos \pause
 
-# Dinâmica
+- Ler o algoritmo \pause
 
-Quatro equipes, cada equipe recebe um algoritmo e deve fazer \pause
+- Tentar executar o algoritmo \pause
 
-- Leitura do algoritmo \pause
-
-- Tentativa de execução do algoritmo \pause
-
-- Descoberta do propósito do algoritmo \pause
-
-- Apresentação para a turma
+- Tentar descobrir o propósito do algoritmo
 
 
 # Algoritmo 1 - Descrição textual
@@ -130,7 +124,7 @@ Usando $N = 4$ e $C = 1$, faça
 
 Passo 0:
 
-- Começa com $A = 52$ e $B = 36$
+- Comece com $A = 52$ e $B = 36$
 
 Passo 1:
 
@@ -138,7 +132,7 @@ Passo 1:
 
 Passo 2:
 
-- Se $B = 0$, então pare e a saída é o valor de $A$
+- Se $B = 0$, então pare e dê como saída o valor de $A$
 - Senão
     - $C \leftarrow A - B$
     - $A \leftarrow B$
@@ -237,11 +231,3 @@ O que considerar na escolha ou no projeto de algoritmos? \pause
 # Algoritmos e computadores
 
 Qual representação utilizar para escrever algoritmos que possam ser executados por um computador? \pause
-
-Vamos discutir esta questão em seguida!
-
-
-
-# Atividades
-
-@. Aja como um computador humano e execute os algoritmos de 1 a 4 (inclusive o algoritmo que a sua equipe trabalhou em sala).
